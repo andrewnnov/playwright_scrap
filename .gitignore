@@ -1,0 +1,7 @@
+node_modules
+test-result
+playwright-report
+*.png
+*.war
+*.mp4
+*.prettier
